@@ -24,9 +24,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Configure Roles
 - Configure System Administrator Department
--
-- Item 4
-- Item 5
+- Configure SLA    
+  
 
 <h2>Configuration Steps</h2>
 
@@ -51,9 +50,11 @@ Configured System Administrator Department in osTicket.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+
+![image](https://github.com/alhutchinson/Post-Install-Configuration/assets/171261246/44107fc5-658c-4006-8670-b6c151a29041)
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As System Admin created Service Level Agreements in osTicket.
 </p>
 <br />
