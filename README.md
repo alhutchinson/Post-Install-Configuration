@@ -45,7 +45,7 @@ Configuring roles in osTicket setting up different levels of access and permissi
 
 </p>
 <p>
-Configured System Administrator Department in osTicket.
+In osTicket configuring system administrator departments involves setting up organizations units within the ticketing system, users, and settings independently. This allows large companies to segment responsibilities and workflow effectively. Here is a demonstration of me Configuring System Administrator Department in osTicket.
 </p>
 <br />
 
