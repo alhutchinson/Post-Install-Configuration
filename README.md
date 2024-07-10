@@ -35,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-Configuring roles in osTicket setting up different levels of access and permissions foe users. This allows companies to control who can carry out specific actions and view certain information. You can also manage other aspects of the support ticket system. This example shows me Configuring a Supreme Admin role with permissions in osTicket.
+Configuring roles in osTicket setting up different levels of access and permissions for users. This allows companies to control who can carry out specific actions and view certain information. You can also manage other aspects of the support ticket system. This example shows me Configuring a Supreme Admin role with permissions in osTicket.
 </p>
 <br />
 
