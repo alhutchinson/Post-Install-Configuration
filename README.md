@@ -55,6 +55,6 @@ In osTicket configuring system administrator departments involves setting up org
 ![image](https://github.com/alhutchinson/Post-Install-Configuration/assets/171261246/44107fc5-658c-4006-8670-b6c151a29041)
 
 <p>
-As System Admin created Service Level Agreements in osTicket.
+Setting up Service Level Agreements In osTicket helps organizations streamline their support infrastructure, prioritize ticket handling based on customer needs. This also allows organizations to maintain accountability through measurable targets. Here is a demonstration of me creating a Service Level Agreements in osTicket.
 </p>
 <br />
